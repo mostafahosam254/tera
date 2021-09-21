@@ -1,0 +1,301 @@
+
+
+
+*
+{
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+
+body
+{
+    background-color: rgb(98, 96, 96);
+}
+
+
+
+
+header
+{
+
+
+    margin: 0px 0px 100px 0px ;
+    padding: 2px 2px 2px 2px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 0 0 60px 60px ;
+}
+
+
+header h1
+{
+
+    margin-bottom: 35px;
+
+
+}
+
+header nav ul li a
+{
+
+
+    color: #fff;
+    text-decoration: none;
+    
+
+}
+
+header nav ul li a:hover
+{
+
+    font-size: 25px;
+    border-bottom: 2px solid red;
+    
+
+    
+
+}
+
+
+
+
+.mood
+{
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+li{
+    
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    list-style-type: none;
+    
+    
+
+
+}
+
+
+
+
+
+
+ul
+{
+
+
+    
+    
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+
+
+
+
+
+
+
+h1
+{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 10px 0px;
+    width: 40%;
+    background: rgb(0, 0, 0);
+    color: white;
+    border-radius: 8px;
+
+}
+
+
+section
+{
+
+
+    /* border: 4px solid rgb(122, 118, 118); */
+    margin-bottom: 100px;
+    color: white;
+    box-shadow: 5px 5px 30px rgb(27, 27, 27);
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px 0;
+    
+border-radius: 13px;    
+
+}
+
+
+.right-s
+{
+
+    
+    width: 49%;
+
+
+}
+
+
+
+.our-logo
+{
+
+    
+    border-radius: 360px;
+    width: 150px;
+    
+    
+
+
+}
+
+
+.right-s p
+{
+
+    color: rgb(255, 255, 255);
+    text-shadow: 6px 6px 8px black;
+
+}
+
+
+
+.right-s h5
+{
+    font-family: 'Grey Qo', cursive;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+    text-shadow: 6px 6px 8px black;
+}
+
+.right-s p
+{
+    
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 6px 6px 8px black;
+    
+
+}
+
+
+
+
+
+
+
+
+.Facebook
+{
+
+    background-color: royalblue;
+    color: white;
+    margin: 10px;
+    padding: 6px 16px;
+    text-decoration: none;
+
+}
+
+
+.Youtube
+{
+
+    background-color: red;
+    color: white;
+    margin: 10px;
+    padding: 6px 16px;
+    text-decoration: none;
+
+}
+
+
+.Semo p 
+{
+
+    padding-bottom: 10px;
+
+}
+
+
+.sasa{
+
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+.left-s h3
+{
+
+    font-size: 26px;
+    margin: 25px 0;
+
+}
+
+.left-s
+{
+
+    
+    width: 49%;
+
+}
+
+
+.Semo
+{
+    text-align: center;
+    width: 80%;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+
+
+    border-top: 2px solid rgb(122, 118, 118);
+    text-align: center;
+    font-size: 12px;
+
+
+
+
+}
